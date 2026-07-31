@@ -1,9 +1,5 @@
 # Hi, I'm Mirza Mudabbir Ali Baig
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirzamudabbir-dev/mirzamudabbir-dev/main/dark_mode.svg">
-  <img alt="Mirza's GitHub stats card" src="https://raw.githubusercontent.com/mirzamudabbir-dev/mirzamudabbir-dev/main/light_mode.svg">
-</picture>
 
 AI/ML engineer who builds intelligent systems end-to-end — classical ML pipelines, retrieval-augmented generation, and multi-agent orchestration — across finance, healthcare, and beyond.
 
